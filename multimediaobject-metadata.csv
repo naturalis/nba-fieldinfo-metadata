@@ -1,0 +1,4 @@
+Field,Reference
+sourceSystem.code,Acronym of the source system. E.g.: CRS
+sourceSystem.name,The full name of the source system. E.g.: Dutch Species Register
+caption,A short piece of text describing the multimedia object
