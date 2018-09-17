@@ -2,18 +2,18 @@ Field,Reference
 sourceSystem.code,
 sourceSystem.name,The name of the source system. E.g.: CRS
 sourceSystemId,
-recordURI,
-unitID,
-unitGUID,
+recordURI,https://terms.tdwg.org/wiki/abcd2:RecordURI
+unitID,https://terms.tdwg.org/wiki/abcd2:UnitID
+unitGUID,https://terms.tdwg.org/wiki/abcd2:UnitGUID
 collectorsFieldNumber,
-assemblageID,
-sourceInstitutionID,
+assemblageID,https://terms.tdwg.org/wiki/abcd2:AssemblageID
+sourceInstitutionID,https://terms.tdwg.org/wiki/abcd2:SourceInstitutionID
 sourceID,
 owner,
 licenseType,
 license,
-recordBasis,
-kindOfUnit,
+recordBasis,https://terms.tdwg.org/wiki/dwc:basisOfRecord
+kindOfUnit,https://terms.tdwg.org/wiki/abcd2:KindOfUnit
 collectionType,
 sex,
 phaseOrStage,
@@ -29,20 +29,20 @@ gatheringEvent.projectTitle,https://terms.tdwg.org/wiki/abcd2:Gathering-Project
 gatheringEvent.worldRegion,The name of a world region of a location
 gatheringEvent.continent,Name of the continent of a location. 
 gatheringEvent.country,https://terms.tdwg.org/wiki/abcd2:Gathering-Country
-gatheringEvent.iso3166Code,
-gatheringEvent.provinceState,
-gatheringEvent.island,
+gatheringEvent.iso3166Code,The international code for countries
+gatheringEvent.provinceState,https://terms.tdwg.org/wiki/dwc:stateProvince
+gatheringEvent.island,https://terms.tdwg.org/wiki/dwc:island
 gatheringEvent.locality,
-gatheringEvent.city,
+gatheringEvent.city,https://terms.tdwg.org/wiki/dwc:municipality
 gatheringEvent.sublocality,
 gatheringEvent.localityText,https://terms.tdwg.org/wiki/abcd2:Gathering-LocalityText
 gatheringEvent.dateTimeBegin,https://terms.tdwg.org/wiki/abcd2:Gathering-DateTime-ISODateTimeBegin
 gatheringEvent.dateTimeEnd,https://terms.tdwg.org/wiki/abcd2:Gathering-DateTime-ISODateTimeEnd
-gatheringEvent.method,
-gatheringEvent.altitude,
-gatheringEvent.altitudeUnifOfMeasurement,
-gatheringEvent.depth,
-gatheringEvent.depthUnitOfMeasurement,
+gatheringEvent.method,https://terms.tdwg.org/wiki/abcd2:Gathering-Method
+gatheringEvent.altitude,https://terms.tdwg.org/wiki/abcd2:Gathering-Altitude
+gatheringEvent.altitudeUnifOfMeasurement,The unit in which the altitude is measured.
+gatheringEvent.depth,https://terms.tdwg.org/wiki/abcd2:Gathering-Depth
+gatheringEvent.depthUnitOfMeasurement,The unit in which the depth is measured.
 gatheringEvent.gatheringPersons.agentText,
 gatheringEvent.gatheringPersons.fullName,
 gatheringEvent.gatheringPersons.organization.agentText,
