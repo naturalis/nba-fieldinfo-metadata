@@ -5,13 +5,13 @@ sourceSystemId,
 recordURI,https://terms.tdwg.org/wiki/abcd2:RecordURI
 unitID,https://terms.tdwg.org/wiki/abcd2:UnitID
 unitGUID,https://terms.tdwg.org/wiki/abcd2:UnitGUID
-collectorsFieldNumber,
+collectorsFieldNumber,https://terms.tdwg.org/wiki/abcd2:CollectorsFieldNumber
 assemblageID,https://terms.tdwg.org/wiki/abcd2:AssemblageID
 sourceInstitutionID,https://terms.tdwg.org/wiki/abcd2:SourceInstitutionID
-sourceID,
-owner,
+sourceID,https://terms.tdwg.org/wiki/abcd2:SourceID
+owner,https://terms.tdwg.org/wiki/abcd2:DataSet-Owner
 licenseType,
-license,
+license,https://terms.tdwg.org/wiki/abcd2:Unit-License
 recordBasis,https://terms.tdwg.org/wiki/dwc:basisOfRecord
 kindOfUnit,https://terms.tdwg.org/wiki/abcd2:KindOfUnit
 collectionType,
