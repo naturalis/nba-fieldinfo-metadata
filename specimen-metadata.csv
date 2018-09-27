@@ -15,14 +15,14 @@ license,https://terms.tdwg.org/wiki/abcd2:Unit-License
 recordBasis,https://terms.tdwg.org/wiki/dwc:basisOfRecord
 kindOfUnit,https://terms.tdwg.org/wiki/abcd2:KindOfUnit
 collectionType,
-sex,
-phaseOrStage,
+sex,https://terms.tdwg.org/wiki/abcd2:Sex
+phaseOrStage,https://terms.tdwg.org/wiki/abcd2:ZoologicalUnit-PhaseOrStage
 title,
 notes,
 preparationType,
-numberOfSpecimen,
-fromCaptivity,
-objectPublic,
+numberOfSpecimen, The amount of individuals in this UnitID
+fromCaptivity, Whether the UnitID is raised in captivity
+objectPublic, Whether
 multiMediaPublic,
 acquiredFrom.agentText,
 gatheringEvent.projectTitle,https://terms.tdwg.org/wiki/abcd2:Gathering-Project
