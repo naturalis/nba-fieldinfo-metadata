@@ -14,7 +14,7 @@ licenseType,
 license,https://terms.tdwg.org/wiki/abcd2:Unit-License
 recordBasis,https://terms.tdwg.org/wiki/dwc:basisOfRecord
 kindOfUnit,https://terms.tdwg.org/wiki/abcd2:KindOfUnit
-collectionType,
+collectionType, The subsection of the main Naturalis collection. e.g. Mammals or Fish or Hymenoptera
 sex,https://terms.tdwg.org/wiki/abcd2:Sex
 phaseOrStage,https://terms.tdwg.org/wiki/abcd2:ZoologicalUnit-PhaseOrStage
 title,
