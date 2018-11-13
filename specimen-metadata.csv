@@ -1,6 +1,6 @@
 Field,Reference
-sourceSystem.code,
-sourceSystem.name,The name of the source system. E.g.: CRS
+sourceSystem.code,The short name of the source system. E.g.: CRS
+sourceSystem.name,The full name of the source system. E.g.: Collection Registration System
 sourceSystemId,
 recordURI,https://terms.tdwg.org/wiki/abcd2:RecordURI
 unitID,https://terms.tdwg.org/wiki/abcd2:UnitID
